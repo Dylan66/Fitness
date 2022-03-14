@@ -1,2 +1,2 @@
 # Fitness
-#The fitness app allows a user to subscribe for a  gym membership and pay using the paypal API
+#A laravel webapp created in PHP, JavaScript, CSS and SCSS. The fitness webapp helps users manage and track their workout sessions. Users can register and create accounts in the app after confirming their email address. Also, users can schedule their work out sessions and request a specific trainer. The app has three interfaces Admin, Customers and Trainers. The app allows trainers to view the bookings their are scheduled to cover. The admin needs to authorize the registration and deletion of trainers. 
